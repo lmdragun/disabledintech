@@ -8,6 +8,7 @@ The Disabled in Tech Slack account exists to create a supportive community of pe
 * Only post the same message in up to 2 channels at a time. There will be a lot of crossover in channel membership.
 * Use @here sparingly. This sends a notification to everyone online in that channel.
 * We will not be allowing animated emojis to avoid any issues they can cause, please use gifs sparingly.
+* Please include text description of any images you post.
 * Keep messages on topic for the channel you are in. If someone asks you to move an off-topic conversation, please do so. Note that you can always leave a public channel and come back to it later if an on-topic conversation ever gets to be too much for you.
 
 
