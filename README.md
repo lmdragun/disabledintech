@@ -4,11 +4,11 @@ The Disabled in Tech Slack account exists to create a supportive community of pe
 
 ## General Rules:
 
-*Avoid language that can be offensive or hurtful. 
-*Only post the same message in up to 2 channels at a time. There will be a lot of crossover in channel membership.
-*Use @here sparingly. This sends a notification to everyone online in that channel.
-*We will not be allowing animated emojis to avoid any issues they can cause, please use gifs sparingly.
-*Keep messages on topic for the channel you are in. If someone asks you to move an off-topic conversation, please do so. Note that you can always leave a public channel and come back to it later if an on-topic conversation ever gets to be too much for you.
+* Avoid language that can be offensive or hurtful. 
+* Only post the same message in up to 2 channels at a time. There will be a lot of crossover in channel membership.
+* Use @here sparingly. This sends a notification to everyone online in that channel.
+* We will not be allowing animated emojis to avoid any issues they can cause, please use gifs sparingly.
+* Keep messages on topic for the channel you are in. If someone asks you to move an off-topic conversation, please do so. Note that you can always leave a public channel and come back to it later if an on-topic conversation ever gets to be too much for you.
 
 
 ## Code of Conduct:
@@ -43,11 +43,11 @@ Breaking the general rules will result in, depending on the nature of the violat
 
 We have a 3-strike policy for CoC violations.
 
-1) The first violation will result in a warning, which will include reasoning as to why the offense is viewed as a CoC violation, a chance to explain the violation, and advice on how to avoid similar violations in the future. This will take place over DM or, if the member does not respond within 2 days, through email.
+1. The first violation will result in a warning, which will include reasoning as to why the offense is viewed as a CoC violation, a chance to explain the violation, and advice on how to avoid similar violations in the future. This will take place over DM or, if the member does not respond within 2 days, through email.
 
-2) The second violation will consist of a temporary suspension. The member will be notified by email of the violation and suspension. 
+1. The second violation will consist of a temporary suspension. The member will be notified by email of the violation and suspension. 
 
-3) The third violation will consist of a permanent ban. The member will be notified by email.
+1. The third violation will consist of a permanent ban. The member will be notified by email.
 
 _Note that outcomes for violating the rules will depend on the severity of the offense. It is possible that the first two steps will not take place if the health or safety of a member is or could potentially be at risk._
 
