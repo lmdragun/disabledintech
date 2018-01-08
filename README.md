@@ -2,6 +2,12 @@
 
 The Disabled in Tech Slack account exists to create a supportive community of people who work in tech or in adjacent fields who have one or more disabilities. The following rules and Code of Conduct are focused on insuring that our community is a safe, helpful place.
 
+### What is Considered as a Disability for this Slack:
+
+The Disabled in Tech Slack understands that defining what is a disability is a complicated and controversial topic. We therefore are not going to do so. If you feel that you have a disability or that you have had a disability and are still being affected by it, whether it is related to your physical or mental health, you are eligible to join. 
+
+You do not have to be considered disabled by your government, getting any disability assistance, or anything else similar to 'qualify', as how complicated (and expensive) these processes can be vary from country to country and what is or isn't considered a disability by individual countries can also vary.
+
 ## General Rules:
 
 * Avoid language that can be offensive or hurtful. 
@@ -10,6 +16,20 @@ The Disabled in Tech Slack account exists to create a supportive community of pe
 * We will not be allowing animated emojis to avoid any issues they can cause, please use gifs sparingly.
 * Please include text description of any images you post.
 * Keep messages on topic for the channel you are in. If someone asks you to move an off-topic conversation, please do so. Note that you can always leave a public channel and come back to it later if an on-topic conversation ever gets to be too much for you.
+
+### Slack:
+
+Slack is a real-time messenger app that allows for channels (chat rooms around specific subjects) and direct messages (private messages between individual or a group of members). 
+
+The free-to-use version has a limited amount of space and messages will be deleted, so if there's anything important that you might need later on, please make note of it elsewhere.
+
+### Channels:
+
+New channels can be requested in #`_channel-requests`. At this time, only mods will be able to make channels.
+
+Private channels can be requested there or separately through a mod. A list of private channels that people can join will be added to #`_announcements`.
+
+'Official' channels for announcements, requests, and the like will start with underscores and be highlighted on here when mentioned (eg #`_some-channel-name`).
 
 
 ## Code of Conduct:
@@ -53,3 +73,6 @@ We have a 3-strike policy for CoC violations.
 _Note that outcomes for violating the rules will depend on the severity of the offense. It is possible that the first two steps will not take place if the health or safety of a member is or could potentially be at risk._
 
 Repealing of permanent bans will involve the mods discussing the issue between themselves and with anyone who was directly affected by the behavior, as well as a probationary period if the ban is lifted.
+
+
+#### These rules and CoC will be edited and updated as necessary. Slack members will be notified of any major changes through #`_announcements`.
